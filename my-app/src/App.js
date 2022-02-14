@@ -1,11 +1,11 @@
 import './App.css';
-import SaiComponent from './components/SaiComponent';
-import SrinivasComponent from './components/SrinivasComponent';
-import DanishComponent from './components/DanishComponent';
-import RajeshComponent from './components/RajeshComponent';
-import GovardhanComponent from './components/GovardhanComponent';
-import VarmaComponent from './components/VarmaComponent';
-import HemaComponent from './components/HemaComponent';
+import SaiComponent from './Components/SaiComponent';
+import SrinivasComponent from './Components/SrinivasComponent';
+import DanishComponent from './Components/DanishComponent';
+import RajeshComponent from './Components/RajeshComponent';
+import GovardhanComponent from './Components/GovardhanComponent';
+import VarmaComponent from './Components/VarmaComponent';
+import HemaComponent from './Components/HemaComponent';
 
 function App() {
   return (
